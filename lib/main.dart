@@ -15,7 +15,7 @@ import 'package:news_app/cubit/cubit.dart';
 
 void main()
 {
-  //Test for gethub
+
 
   BlocOverrides.runZoned(
         () async {
